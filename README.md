@@ -1,4 +1,4 @@
-#TR
+# TR
 # **🎓 Öğrenci Bilgi Paylaşım Sistemi**
 
 Bu proje, öğrencilerin derslerle ilgili dosyaları (Word, PDF, PowerPoint vb.) yükleyebildiği ve bu dosyalara erişim sağlayabildiği bir platformdur.
