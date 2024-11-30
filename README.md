@@ -1,8 +1,8 @@
-# 🎓 Öğrenci Bilgi Paylaşım Sistemi
+# **🎓 Öğrenci Bilgi Paylaşım Sistemi**
 
 Bu proje, öğrencilerin derslerle ilgili dosyaları (Word, PDF, PowerPoint vb.) yükleyebildiği ve bu dosyalara erişim sağlayabildiği bir platformdur.
 
-## 📂 Özellikler
+# **📂 Özellikler**
 - **Dosya Yükleme**
 - **Arama ve Filtreleme**
 - **Dosya İndirme**
